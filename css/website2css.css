@@ -1,0 +1,28 @@
+#profile {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+}
+
+#welcome {padding-bottom: 20px;}
+
+body {
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {text-align: center;}
+
+.card-img-bottom {padding-bottom: 10px;}
+
+.card-deck {padding-bottom: 50px; padding-top: 50px; display: flex;}
+
+.card-title {font-weight: bold;}
+
+
+
+.dropdown {object-position: right;}
+
+#title{font-size: 100px;}
